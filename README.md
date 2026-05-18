@@ -145,4 +145,4 @@ GestureMazeGame/
 
 ## Authors
 
-Parvat Bhusal — Edinburgh Napier University (SET10120)
+Taha Khalid Parvat Bhusal Abhinav Gyawali — Edinburgh Napier University (SET10120)
